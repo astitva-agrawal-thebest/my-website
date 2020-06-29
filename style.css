@@ -1,0 +1,17 @@
+  h1{
+            color:red;
+        }
+
+.header{
+    background:rgb(179, 255, 0);
+    display: flex;
+    justify-content: space-between;
+}
+p,h2{
+   text-align: center;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
